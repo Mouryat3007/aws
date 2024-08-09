@@ -1,1 +1,1 @@
-This are aws notes for individual topics
+These are aws notes for individual topics
