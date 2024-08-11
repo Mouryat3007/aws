@@ -1,0 +1,29 @@
+VPC
+
+Virtual Private cloud
+  
+  > Is a service that lets you launch aws resources in a logically isolated virtual network you define
+
+
+VPC Components
+
+VPC == Building
+
+  > Internet gateways == Gate of building
+    > Entry and Exit points for your vpc from internet
+
+  > Subnets == Floor of building
+    > Logical grouping of similar servers
+
+  > Route Tables == lift of building
+    > shows network path
+
+  > Network Access Control List- NACL == watchmans for floor
+    > Firewall on subnet level
+
+  > Security Groups == watchman for each flat
+    > Firewall on individual server
+
+
+> an instance which is a part of VPC, will be associate with a subnet and every subnet belongs to route table and route table has route, if an route table has route with internet gateway, then it's called as publlic route table any subnet associated with the public route table are called public subnet, now any instance you launch in public subnet is public instance.
+
