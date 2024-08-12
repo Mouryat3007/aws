@@ -27,3 +27,5 @@ VPC == Building
 
 > an instance which is a part of VPC, will be associate with a subnet and every subnet belongs to route table and route table has route, if an route table has route with internet gateway, then it's called as publlic route table any subnet associated with the public route table are called public subnet, now any instance you launch in public subnet is public instance.
 
+This are the important details of VPC
+
