@@ -1,0 +1,8 @@
+S3 Web Hosting
+
+You can use Amazon S3 to host a static website.
+
+Amazon S3 provides an option for low-cost, highly reliable web hosting service for static websites 
+
+By default web hosting is disabled
+
